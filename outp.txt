@@ -1,0 +1,62 @@
+dl206@soetcse:~$ cat > dl2.txt
+hello all
+welcome to python programming
+dl206@soetcse:~$ cat dl2.txt
+hello all
+welcome to python programming
+dl206@soetcse:~$ cd thilu
+dl206@soetcse:~/thilu$ python3 new.py
+Traceback (most recent call last):
+  File "new.py", line 1, in <module>
+    f=open("dl2.txt","r")
+FileNotFoundError: [Errno 2] No such file or directory: 'dl2.txt'
+dl206@soetcse:~/thilu$ python3 new.py
+hello all
+welcome to python programming
+
+dl206@soetcse:~/thilu$ python3 new.py
+hello all
+welcome to python programming
+
+dl206@soetcse:~/thilu$ python3 new.py
+hello all
+welcome to python programming
+
+dl206@soetcse:~/thilu$ python3 new.py
+hello all
+welcome to python programming
+
+dl206@soetcse:~/thilu$ python3 new.py
+hello all
+welcome to python programming
+
+dl206@soetcse:~/thilu$ python3 new.py
+hello all
+welcome to python programming
+
+dl206@soetcse:~/thilu$ python3 new.py
+hello all
+welcome to python programming
+
+dl206@soetcse:~/thilu$ python3 new.py
+hello all
+welcome to python programming
+
+dl206@soetcse:~/thilu$ python3 new.py
+hello all
+welcome to python programming
+
+dl206@soetcse:~/thilu$ python3 new.py
+hello all
+welcome to python programming
+
+dl206@soetcse:~/thilu$ python3 new1.py
+file operations
+dl206@soetcse:~/thilu$ python3 new2.py
+file operationsfile operations
+dl206@soetcse:~/thilu$ python3 new2.py
+file operationsfile operationsfile operations
+dl206@soetcse:~/thilu$ python3 clao.py
+5 7
+12
+
